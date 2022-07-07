@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# DEMO LINK
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can access Tenzies Game Application => [DEMO LINK](https://tenzies-game-jet.vercel.app/).
 
 ## Available Scripts
 
